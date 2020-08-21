@@ -1,0 +1,1 @@
+python test.py --dataroot /data2/users/thanhpv/hatchremoval/data/dataset/ --name form_pix2pix --model pix2pix --loadSize 512 --fineSize 512 --input_nc 1 --output_nc 1 --gpu_ids 1 --batch_size 1 --no_flip --netG unet_256 --direction AtoB --phase test
